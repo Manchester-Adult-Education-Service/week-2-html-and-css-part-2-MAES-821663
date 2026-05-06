@@ -15,10 +15,16 @@ h1 {
 
 /* --- TASK 3: Style your Form and .form-group below --- */
 
-
+.form-group {
+    max-width: 400px;
+    margin: auto;
+    padding: 10px;
+}
 
 /* --- TASK 3: Add your :invalid visual validation below --- */
 
-
+input:invalid {
+    
+}
 
 /* --- EXTENSIONS: Add your :focus and Success Message styles below --- */
